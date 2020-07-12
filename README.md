@@ -1,3 +1,6 @@
+**Support**
+For all support issues please contact me at dev@vikingthebrent.com
+
 **Privacy Policy**
 
 Brent Adams built the Sly Flourish's DM Tips app as a Free app. This SERVICE is provided by Brent Adams at no cost and is intended for use as is.
