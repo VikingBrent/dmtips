@@ -2,7 +2,7 @@
 ## A random tip generator for Dungeon Masters (iOS & Android)
 
 ### Support
-For all support issues please make a pull request or contact me at dev@vikingthebrent.com
+For all support issues please contact me at dev@vikingthebrent.com
 
 ### Background
 Mike E. Shea is the brilliant author behind *Sly Flourish's The Lazy Dungeon Master*. In mid-2019, Mike released a new feature on https://slyflourish.com: a D&D DM Tip Generator powered by over 1,700 tips Mike had spent a decade posting to Twitter at a rate of one-per-day. 
