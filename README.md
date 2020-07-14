@@ -1,7 +1,20 @@
-**Support**
+# Sly Flourish's DM Tips 
+## A random tip generator for Dungeon Masters (iOS & Android)
+
+### Support
 For all support issues please contact me at dev@vikingthebrent.com
 
-**Privacy Policy**
+### Background
+Mike E. Shea is the brilliant author behind *Sly Flourish's The Lazy Dungeon Master*. In mid-2019, Mike released a new feature on https://slyflourish.com: a D&D DM Tip Generator powered by over 1,700 tips Mike had spent a decade posting to Twitter at a rate of one-per-day. 
+
+When this particular lazy DM decided to pivot into software development, he got a lot of advice. Two of those peices of council were: 
+
+- Make your first project **really** simple. There's a lot more to releasing apps than writing code (can confirm).
+- Do you know any people/businesses that could use an app but don't have one? Write one and then show it to them. Ask if they'd like to release it.
+
+Fusing these two pearls of wisdom, I wrote a mobile app for Mike's DM Tips Generator then contacted him and asked if he'd let me release it on his behalf. He graciously allowed me to do just that and here we are. 
+
+### Privacy Policy
 
 Brent Adams built the Sly Flourish's DM Tips app as a Free app. This SERVICE is provided by Brent Adams at no cost and is intended for use as is.
 
